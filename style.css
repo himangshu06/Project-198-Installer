@@ -1,0 +1,28 @@
+#cen {
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 35px;
+}
+
+#DL {
+    background-color: rgb(9, 30, 220);
+    color: aliceblue;
+    font-size: 50px;
+    border-radius: 50px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
+
+#aaf {
+    background-color: blue;
+    color: aliceblue;
+    font-size: 50px;
+}
